@@ -2,7 +2,7 @@
 
 El comando `git init` se utiliza para inicializar un repositorio Git en un directorio vacío o ya existente.
 
-```bash
+
 git init
 
 git add nombre_del_archivo     # Agrega un archivo específico
@@ -17,11 +17,11 @@ Agregar una imagen:
 ![Logo del Proyecto](./images/logo.jpg)
 
 __Otra explicación breve__
-**git init** Inicia un nuevo repositorio.
-**git add** Agrega cambios al área de preparación.
-**git commit** Crea un nuevo commit.
-**git push** Envía cambios al repositorio remoto.
-**git pull** Descarga cambios del repositorio remoto.
-**git remote -v** Muestra repositorios remotos.
-**README.md** Archivo para documentar tu proyecto.
+- **git init:** Inicia un nuevo repositorio.
+- **git add:** Agrega cambios al área de preparación.
+- **git commit:** Crea un nuevo commit.
+- **git push:** Envía cambios al repositorio remoto.
+- **git pull:** Descarga cambios del repositorio remoto.
+- **git remote -v:** Muestra repositorios remotos.
+- **README.md:** Archivo para documentar tu proyecto.
 
