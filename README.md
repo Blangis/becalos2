@@ -16,7 +16,7 @@ Agregar una imagen:
 ![Texto alternativo](ruta/a/la/imagen.jpg)
 ![Logo del Proyecto](./images/logo.jpg)
 
-_Otra explicación breve_
+__Otra explicación breve__
 **git init:** Inicia un nuevo repositorio.
 **git add:** Agrega cambios al área de preparación.
 **git commit:** Crea un nuevo commit.
